@@ -9,7 +9,13 @@
     * [Introduction](docs/statistics-one/introduction.md)
     * [Week -12](docs/statistics-one/wek-12.md)
 
-## TestOne
+## Foundation Level <a id="testone"></a>
 
-* [Untitled](testone/untitled.md)
+* [Statistics  One](testone/untitled/README.md)
+  * [Week - One](testone/untitled/week-one.md)
+
+## Diploma Level
+
+* [Business Data Management](diploma-level/business-data-management.md)
+* [Week One](diploma-level/week-one.md)
 

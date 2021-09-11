@@ -12,10 +12,11 @@
 ## Foundation Level <a id="foundationlevel"></a>
 
 * [Statistics  One](foundationlevel/untitled/README.md)
-  * [Week  Twelve](foundationlevel/untitled/week-one.md)
+  * [Week  Twelve](foundationlevel/untitled/week-twelve.md)
 
 ## Diploma Level
 
 * [Business Data Management](diploma-level/business-data-management/README.md)
+  * [Introduction](diploma-level/business-data-management/introduction.md)
   * [Week One](diploma-level/business-data-management/week-one.md)
 

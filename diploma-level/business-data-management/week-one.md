@@ -305,7 +305,5 @@ Resources mentioned in lecture:
 1. [https://consumerpyramidsdx.cmie.com/](https://consumerpyramidsdx.cmie.com/)
 2. [https://image-src.bcg.com/Images/BCG-Ten-Trends-That-Are-Altering-Consumer](https://image-src.bcg.com/Images/BCG-Ten-Trends-That-Are-Altering-Consumer)
 
-    -Behavior-in-India-Oct-2019\_tcm9-231429.pdf
-
-
+   -Behavior-in-India-Oct-2019\_tcm9-231429.pdf
 

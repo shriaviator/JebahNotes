@@ -9,10 +9,10 @@
     * [Introduction](docs/statistics-one/introduction.md)
     * [Week -12](docs/statistics-one/wek-12.md)
 
-## Foundation Level <a id="testone"></a>
+## Foundation Level <a id="foundationlevel"></a>
 
-* [Statistics  One](testone/untitled/README.md)
-  * [Week  Twelve](testone/untitled/week-one.md)
+* [Statistics  One](foundationlevel/untitled/README.md)
+  * [Week  Twelve](foundationlevel/untitled/week-one.md)
 
 ## Diploma Level
 

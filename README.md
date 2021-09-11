@@ -1,1 +1,2 @@
-# JebahNotes
+# Initial page
+

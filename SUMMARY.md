@@ -12,10 +12,10 @@
 ## Foundation Level <a id="testone"></a>
 
 * [Statistics  One](testone/untitled/README.md)
-  * [Week - One](testone/untitled/week-one.md)
+  * [Week  Twelve](testone/untitled/week-one.md)
 
 ## Diploma Level
 
-* [Business Data Management](diploma-level/business-data-management.md)
-* [Week One](diploma-level/week-one.md)
+* [Business Data Management](diploma-level/business-data-management/README.md)
+  * [Week One](diploma-level/business-data-management/week-one.md)
 

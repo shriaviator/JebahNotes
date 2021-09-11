@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JebahNotes](README.md)
+* [Jebah Notes](README.md)
 
 
 ## Foundation Level <a id="foundationlevel"></a>

@@ -12,6 +12,7 @@
 ## Foundation Level <a id="foundationlevel"></a>
 
 * [Statistics  One](foundationlevel/untitled/README.md)
+  * [Introduction](foundationlevel/untitled/introduction.md)
   * [Week  Twelve](foundationlevel/untitled/week-twelve.md)
 
 ## Diploma Level
